@@ -53,4 +53,4 @@ b<a
 summary(pro)
 
 #Correlation is scaled covariance.
-
+cor(propellant)
