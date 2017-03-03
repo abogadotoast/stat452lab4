@@ -53,4 +53,6 @@ b<a
 summary(pro)
 
 #Correlation is scaled covariance.
-cor(propellant)
+cor(pro)
+
+quantile(pro[,3],probs=c(0.25,0.5,0.75,1))
